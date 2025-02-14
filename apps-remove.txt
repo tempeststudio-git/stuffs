@@ -52,3 +52,6 @@ MicrosoftWindows.Client.WebExperience
 #7906AAC0.dynabookSettings
 #7906AAC0.ServiceStation
 #C27EB4BA.DropboxOEM
+#MSTeams
+#Microsoft.BingSearch
+#Clipchamp.Clipchamp
